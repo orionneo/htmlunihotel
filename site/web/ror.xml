@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for http://hotel-unihotel.com.br/</title>
+  <link>http://hotel-unihotel.com.br/</link>
+
+<item>
+     <link>http://hotel-unihotel.com.br/</link>
+     <title>UNIHOTEL em Hortolâdia - SP</title>
+     <description>Invious - Creative HTML Template</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://hotel-unihotel.com.br/index.html</link>
+     <title>UNIHOTEL em Hortolâdia - SP</title>
+     <description>Invious - Creative HTML Template</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://hotel-unihotel.com.br/acomodacoes.html</link>
+     <title>Acomodações - UNIHOTEL em Hortolâdia - SP</title>
+     <description>Invious - Creative HTML Template</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://hotel-unihotel.com.br/contato.html</link>
+     <title>Contato - UNIHOTEL - Hortolâdia - SP</title>
+     <description>Invious - Creative HTML Template</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://hotel-unihotel.com.br/promocao.html</link>
+     <title>Promoção - UNIHOTEL - Hortolândia - SP</title>
+     <description>Invious - Creative HTML Template</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  
