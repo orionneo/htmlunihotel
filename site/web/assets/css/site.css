@@ -72,7 +72,8 @@ img { max-width: 100%; display: block; }
 }
 
 .brand img {
-  width: 156px;
+  width: 220px;
+  max-width: 62vw;
   height: auto;
 }
 
@@ -216,6 +217,68 @@ h2 {
   gap: 1rem;
 }
 
+.accommodation-grid {
+  margin-top: 1.4rem;
+  display: grid;
+  gap: 1.1rem;
+}
+
+.room-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  overflow: hidden;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.room-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 16px 34px rgba(10, 20, 40, 0.14);
+}
+
+.room-card img {
+  width: 100%;
+  height: 220px;
+  object-fit: cover;
+}
+
+.room-card-content {
+  padding: 1rem;
+}
+
+.room-card-content h2 {
+  font-size: 1.35rem;
+  margin-bottom: 0.35rem;
+}
+
+.room-card-content p {
+  margin-top: 0;
+  margin-bottom: 0.7rem;
+  color: var(--muted);
+}
+
+.room-features {
+  margin: 0 0 0.7rem;
+  padding-left: 1.1rem;
+}
+
+.room-features li {
+  margin-bottom: 0.2rem;
+}
+
+.room-pricing {
+  border: 1px solid #dde5f1;
+  border-radius: 10px;
+  padding: 0 0.75rem;
+  background: #f7faff;
+}
+
+.room-cta {
+  margin-top: 0.8rem;
+  width: 100%;
+}
+
 .price-line {
   display: flex;
   align-items: center;
@@ -294,9 +357,14 @@ footer {
     background: transparent;
   }
 
+  .brand img {
+    width: 250px;
+  }
+
   .grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .photo-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
   .price-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .accommodation-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .contact-list { grid-template-columns: repeat(2, minmax(0, 1fr)); }
 }
 
