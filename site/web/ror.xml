@@ -1,49 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
-<channel>
-  <title>ROR Sitemap for http://hotel-unihotel.com.br/</title>
-  <link>http://hotel-unihotel.com.br/</link>
-
-<item>
-     <link>http://hotel-unihotel.com.br/</link>
-     <title>UNIHOTEL em Hortolâdia - SP</title>
-     <description>Invious - Creative HTML Template</description>
-     <ror:updatePeriod></ror:updatePeriod>
-     <ror:sortOrder>0</ror:sortOrder>
-     <ror:resourceOf>sitemap</ror:resourceOf>
-</item>
-<item>
-     <link>http://hotel-unihotel.com.br/index.html</link>
-     <title>UNIHOTEL em Hortolâdia - SP</title>
-     <description>Invious - Creative HTML Template</description>
-     <ror:updatePeriod></ror:updatePeriod>
-     <ror:sortOrder>1</ror:sortOrder>
-     <ror:resourceOf>sitemap</ror:resourceOf>
-</item>
-<item>
-     <link>http://hotel-unihotel.com.br/acomodacoes.html</link>
-     <title>Acomodações - UNIHOTEL em Hortolâdia - SP</title>
-     <description>Invious - Creative HTML Template</description>
-     <ror:updatePeriod></ror:updatePeriod>
-     <ror:sortOrder>1</ror:sortOrder>
-     <ror:resourceOf>sitemap</ror:resourceOf>
-</item>
-<item>
-     <link>http://hotel-unihotel.com.br/contato.html</link>
-     <title>Contato - UNIHOTEL - Hortolâdia - SP</title>
-     <description>Invious - Creative HTML Template</description>
-     <ror:updatePeriod></ror:updatePeriod>
-     <ror:sortOrder>1</ror:sortOrder>
-     <ror:resourceOf>sitemap</ror:resourceOf>
-</item>
-<item>
-     <link>http://hotel-unihotel.com.br/promocao.html</link>
-     <title>Promoção - UNIHOTEL - Hortolândia - SP</title>
-     <description>Invious - Creative HTML Template</description>
-     <ror:updatePeriod></ror:updatePeriod>
-     <ror:sortOrder>1</ror:sortOrder>
-     <ror:resourceOf>sitemap</ror:resourceOf>
-</item>
-</channel>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/">
+  <channel>
+    <title>ROR Sitemap for https://www.hotel-unihotel.com.br/</title>
+    <link>https://www.hotel-unihotel.com.br/</link>
+    <item>
+      <link>https://www.hotel-unihotel.com.br/</link>
+      <title>Hotel barato em Hortolândia com ótimo custo-benefício</title>
+      <description>Hospedagem econômica para trabalhadores e empresas.</description>
+      <ror:sortOrder>0</ror:sortOrder>
+      <ror:resourceOf>sitemap</ror:resourceOf>
+    </item>
+    <item>
+      <link>https://www.hotel-unihotel.com.br/acomodacoes.html</link>
+      <title>Acomodações e preços | Unihotel Hortolândia</title>
+      <description>Tabela de tarifas atualizada e categorias de quartos.</description>
+      <ror:sortOrder>1</ror:sortOrder>
+      <ror:resourceOf>sitemap</ror:resourceOf>
+    </item>
+    <item>
+      <link>https://www.hotel-unihotel.com.br/contato.html</link>
+      <title>Contato e localização | Unihotel Hortolândia</title>
+      <description>Reserva por WhatsApp, telefone, e-mail e mapa.</description>
+      <ror:sortOrder>2</ror:sortOrder>
+      <ror:resourceOf>sitemap</ror:resourceOf>
+    </item>
+  </channel>
 </rss>
-  
